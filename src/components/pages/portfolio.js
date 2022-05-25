@@ -15,7 +15,7 @@ export default function Portfolio() {
                 <p className="card-text" >A mock website I helped develop for a small business owner in San Diego.</p >
                 <p className="card-text-0" >Semantic UI/MongoDB/React</p >
                 <a href="https://github.com/Nail-Lounge-of-La-Jolla/nail-lounge" target="_blank" rel="noopener noreferrer"><i
-                  className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
+                  style={{ fontSize: "30px" }}></i></a>
               </div >
             </div >
           </a>
@@ -31,7 +31,7 @@ export default function Portfolio() {
                 <p className="card-text" >A website for a nutrtional cafe developed for a small business owner in San Diego.</p >
                 <p className="card-text-0" >CSS/JavaScript/MySQL/MVC</p >
                 <a href="https://github.com/Project2CMJ/project2CMJ.git" target="_blank" rel="noopener noreferrer"><i
-                  className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
+                   style={{ fontSize: "30px" }}></i></a>
               </div >
             </div >
           </a>
@@ -46,7 +46,7 @@ export default function Portfolio() {
                 <p className="card-text" >A website that allows you to see the covid-19 guidelines for any country's data available.</p >
                 <p className="card-text-0" >HTML/CSS/JavaScript</p >
                 <a href="https://github.com/Learn-About-Covid-19/know-about-covid-19" target="_blank" rel="noopener noreferrer"><i
-                  className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
+                   style={{ fontSize: "30px" }}></i></a>
               </div >
             </div >
           </a>
@@ -61,7 +61,7 @@ export default function Portfolio() {
                 <p className="card-text" >Allows you to check the forecast for whatever city you would like to view in the U.S. Displays the weather for the searched city for a 5-day forecast.</p >
                 <p className="card-text-0" >HTML/CSS/JavaScript/OpenweatherAPIs</p >
                 <a href="https://github.com/christianle21/hows-the-weather" target="_blank" rel="noopener noreferrer"><i
-                  className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
+                   style={{ fontSize: "30px" }}></i></a>
               </div >
             </div >
           </a>
@@ -77,7 +77,7 @@ export default function Portfolio() {
                 <p className="card-text" >A quiz based on simple coding knowledge. Tracks your score and also has a scoreboard to see how well you did.</p >
                 <p className="card-text-0" >HTML/CSS/JavaScript</p >
                 <a href="https://github.com/christianle21/the-only-coding-quiz-worth-trying" target="_blank" rel="noopener noreferrer"><i
-                  className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
+                   style={{ fontSize: "30px" }}></i></a>
               </div >
             </div >
           </a>
@@ -93,7 +93,7 @@ export default function Portfolio() {
                 <p className="card-text" >Generates a password for you with certain criterias to make your new password secure.</p >
                 <p className="card-text-0" >HTML/CSS/JavaScript</p >
                 <a href="https://github.com/christianle21/whats-the-password" target="_blank" rel="noopener noreferrer"><i
-                  className="fa fa-github gicon" style={{ fontSize: "30px" }}></i></a>
+                   style={{ fontSize: "30px" }}></i></a>
               </div>
             </div>
           </a>

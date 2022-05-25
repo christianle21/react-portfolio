@@ -8,7 +8,6 @@ function NavTabs({ currentPage, handlePageChange }) {
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span>
-            <div className="icons8-menu"></div>
           </span>
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
