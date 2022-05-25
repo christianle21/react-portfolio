@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5f2272e.css",
+    "main.js": "/static/js/main.0209b8ec.js",
+    "static/media/covid19.png": "/static/media/covid19.a8d013ec7c1c420cdff5.png",
+    "static/media/lajolla.png": "/static/media/lajolla.228b912b3fe27e2e8aed.png",
+    "static/media/select.png": "/static/media/select.67ad1318ccadecc5652c.png",
+    "static/media/weather.png": "/static/media/weather.f7e6ce6f714e339c8687.png",
+    "static/media/password.jpg": "/static/media/password.a4edc7207ef5552ab707.jpg",
+    "static/media/me.jpg": "/static/media/me.d6112df7c8bae706661b.jpg",
+    "static/media/quiz.png": "/static/media/quiz.c813daea80db680ff2c2.png",
+    "index.html": "/index.html",
+    "main.a5f2272e.css.map": "/static/css/main.a5f2272e.css.map",
+    "main.0209b8ec.js.map": "/static/js/main.0209b8ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f2272e.css",
+    "static/js/main.0209b8ec.js"
+  ]
+}
